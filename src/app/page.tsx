@@ -947,7 +947,7 @@ export default function Home() {
                       animate={{ scale: [1, 1.1, 1] }}
                       transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY, delay: 1 }}
                     >
-                      20+
+                      5+
                     </motion.h4>
                     <p className="text-slate-300">Expert Team</p>
                   </motion.div>
@@ -1063,7 +1063,7 @@ export default function Home() {
             <div className="text-center text-sm text-slate-500">
               <p className="mb-2">
                 <span className="font-medium text-slate-400">LOTOOK LTD</span> -
-                Registered in England and Wales
+                Registered in England
               </p>
               <p className="text-xs">
                 A UK registered company providing cutting-edge AI solutions worldwide
